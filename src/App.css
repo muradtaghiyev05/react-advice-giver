@@ -1,0 +1,35 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.App{
+    text-align: center;
+    margin-top: 15rem;
+}
+
+.advice{
+    background-color:beige;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    padding: 2em;   
+}
+
+button{
+    margin-top: 2rem;
+    border-radius: 3px;
+    border: transparent;
+    padding: 6px;
+    width: 8rem;
+    height: 3rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+    background-color:coral;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:brown;
+}
